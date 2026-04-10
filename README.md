@@ -32,7 +32,7 @@ The project was built using the following tools and technologies:
 6. Screenshots / Demos
 > ** https://public.tableau.com/views/loan_risk_insights/LOANPORTFOLIODEFAULTRISKDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
-![Dashboard Preview]()
+![Dashboard Preview]-https://github.com/nikita-kashyap-portfolio/bank-loan-default-analysis/blob/main/LOAN%20PROTFOLIO%20DEFAULT%20RISK%20DASHBOARD.png
 
 ---
 
