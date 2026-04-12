@@ -1,3 +1,4 @@
+<img width="1277" height="886" alt="LOAN PROTFOLIO DEFAULT RISK DASHBOARD" src="https://github.com/user-attachments/assets/150754ac-bae1-455b-b3df-e251e6fa17ba" />
 🏦 Bank Loan Default Risk Analysis 
 
 1. Project Title / Headline
